@@ -79,6 +79,8 @@ The dataset includes:
 
 - Strengthen training & engagement programs to improve performance beyond “Average.”
 
-  📖 Conclusion
+ # 📖 Conclusion
+  
+ ![](https://github.com/christopherstanleyobinna-rgb/HR-Analysis-Dashboard/blob/main/HR%20image.jpg)
  
 This HR analysis highlights important workforce and performance patterns. With the right policies and investments, organizations can achieve pay equity, boost employee engagement, and improve overall productivity.
